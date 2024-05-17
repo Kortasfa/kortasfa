@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my [Coursework](https://coursework-mu.vercel.app/)
 - 🌱 I’m currently learning **Svelte** and **Vercel**
 - 👯 I’m looking to collaborate on **Svelte** projects
