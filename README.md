@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [Coursework](https://coursework-mu.vercel.app/)
-- 🌱 I’m currently learning **Svelte** and **Vercel**
-- 👯 I’m looking to collaborate on **Svelte** projects
+- 🔭 I’m currently working with **Next JS** and **Shadcn/UI**
+- 🌱 I’m currently learning **OOD**
+- 👯 I’m looking to collaborate on **Next JS** projects
 - 💬 Ask me about **React**, **TS**
 - 📱 WEB / Mobile developer (**React** + **React Native**)
